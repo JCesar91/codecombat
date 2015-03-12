@@ -809,8 +809,8 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     edit_btn_preview: "Vista previa"
     edit_article_title: "Editar Artículo"
 
-#  polls:
-#    priority: "Priority"
+  polls: "Encuestas"
+    priority: "Prioridad"
 
   contribute:
     page_title: "Contribuyendo"
